@@ -24,7 +24,7 @@
   
   <h3 align='center'>📢 Contact 📢</h3>
   <div align='center'>
-    <a href="https://github.com/LeeJeongSik02"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://github.com/ljs528022"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href=""><img src="http://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
     <a href="mailto:ljs528022@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
   </div>
