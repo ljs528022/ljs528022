@@ -28,7 +28,7 @@
     <a href="https://github.com/ljs528022"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://www.notion.so/25b9a379f46680198810e65263f18913"><img src="http://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"></a>
     <a href=mailto:ljs528022@gmail.com><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ljs528022@gmail.com"></a>
-    <a href=""><img src="http://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
+    <a href="https://ljs4180.tistory.com/"><img src="http://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
   </div>
   
   <h3 align='center'>👩‍💻 GitHub Stats 👩‍💻</h3>
