@@ -21,7 +21,6 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp
     <br>
     
-    <!-- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp  -->
   </div>
   
   <h3 align='center'>📢 Contact 📢</h3>
