@@ -6,8 +6,7 @@
   <!-- 내용 부분 -->
   <h3 align="center">📚 Tech Stack 📚</h3>
   <div align="center">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"/></a>&nbsp
-<!--     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp -->
+    <a href=""><span>Java</span></a>&nbsp
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visual&logoColor=white"/></a>&nbsp
     <br>
