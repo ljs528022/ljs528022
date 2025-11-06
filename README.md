@@ -4,8 +4,14 @@
   
 
   <!-- 내용 부분 -->
-  <h3 align="center">📚 Tech Stack 📚</h3>
+  <h3 align="Center">📚 Tech Stack </h3>
   <div align="center">
+    <div style={display: "flex"}>
+      <a>FrontEnd Skill</a>
+    </div>
+    <div>
+      <a>BackEnd Skill</a>
+    </div>
     <a href=""><span>Java</span></a>&nbsp
     <img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=for-the-badge&logo=visual&logoColor=white"/></a>&nbsp
@@ -32,7 +38,7 @@
   <h3 align='center'>👩‍💻 GitHub Stats 👩‍💻</h3>
   <div align="center">
     
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljs528022&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljs528022&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljs528022&layout=compact)
   
   </div>
