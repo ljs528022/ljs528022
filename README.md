@@ -13,11 +13,16 @@
           <img src="https://skillicons.dev/icons?i=java"/>
         </a>&nbsp
         <a href="">
+          <img src="https://skillicons.dev/icons?i=idea"/>
+        </a>&nbsp
+        <a href="">
           <img src="https://skillicons.dev/icons?i=nodejs"/>
         </a>&nbsp
         <a href="">
           <img src="https://skillicons.dev/icons?i=spring"/>
         </a>&nbsp
+    </p>
+    <p align="center">   
         <a href="">
           <img src="https://skillicons.dev/icons?i=react"/>
         </a>&nbsp
@@ -30,8 +35,8 @@
         <a href="">
           <img src="https://skillicons.dev/icons?i=py"/>
         </a>&nbsp
-        <br/>
-        <br/>
+    </p>
+    <p align="center">
         <a href="">
           <img src="https://skillicons.dev/icons?i=js"/>
         </a>&nbsp
@@ -50,6 +55,7 @@
       <p align="center">
           <img src="https://skillicons.dev/icons?i=linux"/>&nbsp
           <img src="https://skillicons.dev/icons?i=mysql"/>&nbsp
+          <img src="https://skillicons.dev/icons?i=postman"/>&nbsp
           <img src="https://skillicons.dev/icons?i=docker"/>&nbsp
           <img src="https://skillicons.dev/icons?i=aws"/>&nbsp
           <a>DBeaver</a>
@@ -61,9 +67,6 @@
   
   <h2 align='center'>📢 Contact & Blog 📢</h2>
   <div align='center'>
-    <a href="https://github.com/ljs528022">
-      <img src="https://skillicons.dev/icons?i=github"/>
-    </a>&nbsp
     <a href=mailto:ljs528022@gmail.com>
       <img src="https://skillicons.dev/icons?i=gmail"/>
     </a>&nbsp
