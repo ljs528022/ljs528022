@@ -9,43 +9,21 @@
   <div align="center">
     <h2 align="center">FrontEnd Skill</h2>
     <p align="center">
-        <a href="https://www.notion.so/2a29a379f466801db842dc9a81ee3caa?v=2a29a379f466806b8226000c70d8bed4">
-          <img src="https://skillicons.dev/icons?i=java"/>
-        </a>&nbsp
-        <a href="">
-          <img src="https://skillicons.dev/icons?i=idea"/>
-        </a>&nbsp
-        <a href="">
-          <img src="https://skillicons.dev/icons?i=nodejs"/>
-        </a>&nbsp
-        <a href="">
-          <img src="https://skillicons.dev/icons?i=spring"/>
-        </a>&nbsp
+        <img src="https://skillicons.dev/icons?i=java"/>
+        <img src="https://skillicons.dev/icons?i=idea"/>
+        <img src="https://skillicons.dev/icons?i=nodejs"/>
+        <img src="https://skillicons.dev/icons?i=spring"/>
     </p>
     <p align="center">   
-        <a href="">
-          <img src="https://skillicons.dev/icons?i=react"/>
-        </a>&nbsp
-        <a href="">
-          <img src="https://skillicons.dev/icons?i=vite"/>
-        </a>&nbsp
-        <a href="">
-          <img src="https://skillicons.dev/icons?i=vscode"/>
-        </a>&nbsp
-        <a href="">
-          <img src="https://skillicons.dev/icons?i=py"/>
-        </a>&nbsp
+        <img src="https://skillicons.dev/icons?i=react"/>
+        <img src="https://skillicons.dev/icons?i=vite"/>
+        <img src="https://skillicons.dev/icons?i=vscode"/>
+        <img src="https://skillicons.dev/icons?i=py"/>
     </p>
     <p align="center">
-        <a href="">
-          <img src="https://skillicons.dev/icons?i=js"/>
-        </a>&nbsp
-        <a href="">
-          <img src="https://skillicons.dev/icons?i=html"/>
-        </a>&nbsp
-        <a href="">
-          <img src="https://skillicons.dev/icons?i=css"/>
-        </a>&nbsp
+        <img src="https://skillicons.dev/icons?i=js"/>
+        <img src="https://skillicons.dev/icons?i=html"/>
+        <img src="https://skillicons.dev/icons?i=css"/>
     </p>
   </div>
   <br/>
