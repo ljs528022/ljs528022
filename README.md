@@ -4,7 +4,7 @@
   
 
   <!-- 내용 부분 -->
-  <h1 align="Left">📚 Tech Stack 📚</h1>
+  <h1 align="center">📚 Tech Stack 📚</h1>
   <br/>
   <div align="center">
     <h2 align="center">FrontEnd Skill</h2>
@@ -45,7 +45,7 @@
   <br/>
   <br/>
   
-  <h2 align='center'>📢 Contact & Blog 📢</h2>
+  <h1 align='center'>📢 Contact & Blog 📢</h1>
   <div align='center'>
     <a href=mailto:ljs528022@gmail.com>
       <img src="https://skillicons.dev/icons?i=gmail"/>
@@ -61,11 +61,9 @@
   <br/>
   <br/>
   
-  <h2 align='center'>👩‍💻 GitHub Stats 👩‍💻</h2>
+  <h1 align='center'>👩‍💻 GitHub Stats 👩‍💻</h1>
   <div align="center">
-    
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljs528022&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljs528022&layout=compact)
-  
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljs528022&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljs528022&layout=compact)
   </div>
 </div>
