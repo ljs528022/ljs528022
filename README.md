@@ -37,7 +37,6 @@
           <img src="https://skillicons.dev/icons?i=docker"/>&nbsp
           <img src="https://skillicons.dev/icons?i=aws"/>&nbsp
           <a>DBeaver</a>
-        
       </p>
   </div>
   <br/>
