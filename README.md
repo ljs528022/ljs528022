@@ -34,6 +34,8 @@
             <img src="https://skillicons.dev/icons?i=linux"/>&nbsp
             <img src="https://skillicons.dev/icons?i=mysql"/>&nbsp
             <img src="https://skillicons.dev/icons?i=postman"/>&nbsp
+        </p>
+        <p align="center">
             <img src="https://skillicons.dev/icons?i=docker"/>&nbsp
             <img src="https://skillicons.dev/icons?i=aws"/>&nbsp
             <a>DBeaver</a>
