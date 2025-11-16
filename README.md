@@ -63,7 +63,9 @@
   
   <h1 align='center'>👩‍💻 GitHub Stats 👩‍💻</h1>
   <div align="center">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljs528022&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljs528022&layout=compact)
+    
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ljs528022&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ljs528022&layout=compact)
+    
   </div>
 </div>
