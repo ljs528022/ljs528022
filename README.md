@@ -30,15 +30,15 @@
   <br/>
     <div>
       <h2 align="center">BackEnd Skill</h2>
-      <p align="center">
-          <img src="https://skillicons.dev/icons?i=linux"/>&nbsp
-          <img src="https://skillicons.dev/icons?i=mysql"/>&nbsp
-          <img src="https://skillicons.dev/icons?i=postman"/>&nbsp
-          <img src="https://skillicons.dev/icons?i=docker"/>&nbsp
-          <img src="https://skillicons.dev/icons?i=aws"/>&nbsp
-          <a>DBeaver</a>
-      </p>
-  </div>
+        <p align="center">
+            <img src="https://skillicons.dev/icons?i=linux"/>&nbsp
+            <img src="https://skillicons.dev/icons?i=mysql"/>&nbsp
+            <img src="https://skillicons.dev/icons?i=postman"/>&nbsp
+            <img src="https://skillicons.dev/icons?i=docker"/>&nbsp
+            <img src="https://skillicons.dev/icons?i=aws"/>&nbsp
+            <a>DBeaver</a>
+        </p>
+    </div>
   <br/>
   <br/>
   <br/>
